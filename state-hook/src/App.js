@@ -25,7 +25,7 @@ export const ChannelContext = React.createContext();
 function App() {
   return (
     <div className="App">
-      <CounterThree></CounterThree>
+      {/* <CounterThree></CounterThree> */}
       {/* <CounterTwo></CounterTwo> */}
       {/* <CounterOne></CounterOne> */}
       {/* <UserContext.Provider value={'Matheus'}>
